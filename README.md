@@ -8,3 +8,8 @@ Went over the basics in Python. Studied modules and created a program to calcula
 area of triangles,square and circle.
 
 More Info [here](Day1/Day1.md)
+
+## Day 2
+
+Did some exercises in Python on Numbers, strings, Lists
+More Info [here](Day2/Day2.md)
