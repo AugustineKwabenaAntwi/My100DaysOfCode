@@ -11,5 +11,12 @@ More Info [here](Day1/Day1.md)
 
 ## Day 2
 
-Did some exercises in Python on Numbers, strings, Lists
+Did some exercises in Python on Numbers, strings, Lists,Functions & for loop.
+
 More Info [here](Day2/Day2.md)
+
+## Day 3
+
+Started of with some exercises for Dictionaries and Tuples...
+
+See more [here](Day3/Day3.md)
