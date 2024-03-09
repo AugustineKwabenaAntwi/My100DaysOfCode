@@ -17,6 +17,12 @@ More Info [here](Day2/Day2.md)
 
 ## Day 3
 
-Started of with some exercises for Dictionaries and Tuples...
+Did an exercise for Dictionaries and Tuples...
 
 See more [here](Day3/Day3.md)
+
+## Day 4
+
+Did 2 more exercises for Dictionaries and Tuples...
+
+See more [here](Day4/Day4.md)
