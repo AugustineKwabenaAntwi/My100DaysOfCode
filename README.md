@@ -23,6 +23,12 @@ See more [here](Day3/Day3.md)
 
 ## Day 4
 
-Did 2 more exercises for Dictionaries and Tuples...
+Did an exercise for Dictionaries and Tuples...
 
 See more [here](Day4/Day4.md)
+
+## Day 5
+
+Did an exercise for Dictionaries and Tuples...
+
+See more [here](Day5/Day5.md)
