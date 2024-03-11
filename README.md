@@ -32,3 +32,9 @@ See more [here](Day4/Day4.md)
 Did an exercise for Dictionaries and Tuples...
 
 See more [here](Day5/Day5.md)
+
+## Day 6
+
+Studying reading and Writing files
+
+See more [here](Day6/Day6.md)
