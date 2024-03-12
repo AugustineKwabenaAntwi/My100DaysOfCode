@@ -38,3 +38,11 @@ See more [here](Day5/Day5.md)
 Studying reading and Writing files
 
 See more [here](Day6/Day6.md)
+
+## Day 7
+
+1. Handling errors in python
+
+2. Basics in OPP: Studying Class and Objects
+
+See more [here](Day7/Day7.md)
