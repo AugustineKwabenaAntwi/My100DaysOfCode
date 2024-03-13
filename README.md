@@ -46,3 +46,11 @@ See more [here](Day6/Day6.md)
 2. Basics in OPP: Studying Class and Objects
 
 See more [here](Day7/Day7.md)
+
+## Day 8
+
+ Still on Basics in OPP: Studying Class and Objects
+ Didn't finish my exercise. 
+ Currently watching videos on it. This playlist is very useful [click here to see it][https://www.youtube.com/watch?v=JeznW_7DlB0]
+
+See more [here](Day7/Day7.md)
