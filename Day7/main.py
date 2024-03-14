@@ -18,5 +18,7 @@ emp2.output()
 
 del emp2.id
 # using error handling because it will throw an error after deleting ID
-emp2.output()
-
+try: 
+    print(emp2.id)
+except AttributeError:
+    print("emp2.id has been deleted")

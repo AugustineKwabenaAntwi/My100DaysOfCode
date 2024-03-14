@@ -54,3 +54,10 @@ See more [here](Day7/Day7.md)
  Currently watching videos on it. This playlist is very useful [click here to see it][https://www.youtube.com/watch?v=JeznW_7DlB0]
 
 See more [here](Day7/Day7.md)
+
+## Day 9
+
+Doing an exercise on Class and Objects 
+From This playlist [click here to see it][https://www.youtube.com/watch?v=JeznW_7DlB0]
+
+See more [here](Day9/Day9.md)
