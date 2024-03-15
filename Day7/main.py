@@ -22,3 +22,5 @@ try:
     print(emp2.id)
 except AttributeError:
     print("emp2.id has been deleted")
+
+del    

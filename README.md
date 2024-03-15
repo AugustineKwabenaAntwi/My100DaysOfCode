@@ -61,3 +61,10 @@ Doing an exercise on Class and Objects
 From This playlist [click here to see it][https://www.youtube.com/watch?v=JeznW_7DlB0]
 
 See more [here](Day9/Day9.md)
+
+## Day 10
+
+Still studying Class and Objects 
+Today I am on inheritance
+
+See more [here](Day9/Day9.md)
