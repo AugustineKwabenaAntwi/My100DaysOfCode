@@ -64,7 +64,12 @@ See more [here](Day9/Day9.md)
 
 ## Day 10
 
-Still studying Class and Objects 
-Today I am on inheritance
+Data Structures and algorithms
+
+See more [here](Day9/Day9.md)
+
+## Day 11-13
+
+Data Structures and algorithms
 
 See more [here](Day9/Day9.md)
