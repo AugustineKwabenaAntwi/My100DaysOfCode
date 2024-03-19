@@ -71,5 +71,10 @@ See more [here](Day9/Day9.md)
 ## Day 11-13
 
 Data Structures and algorithms
+Arrays
 
-See more [here](Day9/Day9.md)
+
+## Day 14
+
+Data Structures and algorithms
+Linked list
