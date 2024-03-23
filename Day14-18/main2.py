@@ -25,7 +25,14 @@ class LinkedList:
         itr = self.head
         llstr=''
         while itr:
-            llstr=llstr+str(itr.data)
+            llstr=llstr+str(itr.data)+'-->'
             itr = itr.next  
 
+        print(llstr)
 
+
+if __name__ == "__main__":
+    ll = LinkedList()
+    ll.insert_at_beginning(8)
+    ll.insert_at_beginning(89)
+    ll.print()
