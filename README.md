@@ -74,7 +74,7 @@ Data Structures and algorithms
 Arrays
 
 
-## Day 14-16
+## Day 14-18
 
 Data Structures and algorithms
 Linked list
