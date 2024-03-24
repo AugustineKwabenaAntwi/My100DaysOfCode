@@ -46,3 +46,4 @@ if __name__ == "__main__":
     ll.insert_at_beginning(8)
     ll.insert_at_beginning(89)
     ll.print()
+    print(type(ll))

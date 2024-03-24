@@ -78,3 +78,7 @@ Arrays
 
 Data Structures and algorithms
 Linked list
+
+## Day 19
+Reviewing Linked list. Didnt really understand it
+From this video [click here to see it][https://www.youtube.com/watch?v=xRTdfZsAz6Y]
