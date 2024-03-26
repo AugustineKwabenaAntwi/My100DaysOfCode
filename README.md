@@ -85,4 +85,10 @@ From this video [click here to see it][https://www.youtube.com/watch?v=xRTdfZsAz
 
 ## Day 20
 
-Adding Elements to linked list
+Adding node to beginning and end linked list
+
+## Day 21
+
+Adding node to anywhere in a linked list
+
+Deleting nodes in a linked list

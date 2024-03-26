@@ -47,6 +47,38 @@ class LinkedList:
             print("node is not present")
         # u have found the x (down)    
         else:
-            new_node = Node(x)
+            new_node = Node(data)
             new_node.ref = n.ref
             n.ref = new_node
+
+    def add_before(self,data,x):
+        if self.head is None:
+            print("Linked List is empty")
+            return
+        if self.head.data == x: #checking if node is the head node 
+            new_node = Node(data) #creating the object from the node class
+            new_node.ref = self.head #pointing the ref to the existing head node
+            self.head = new_node #making new node the head node
+            return
+        
+        n=self.head # we are essentially looking for the node infront of X_node
+        while n.ref is not None: 
+            if n.ref.data == x:# checking if prev_node.ref.data == x
+                break
+            n = n.ref
+        if n.ref is None:
+            print("Node is not found")
+        else:
+            new_node = Node(data)
+            new_node.ref = n.ref
+            n.ref = new_node
+
+    def insert_empty(self,data):
+        if self.head == None:
+            new_node = Node(data)
+            self.head = new_node
+        else:
+            print("There are items in the linked list")    
+
+
+
