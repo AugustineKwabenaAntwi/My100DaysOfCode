@@ -92,4 +92,7 @@ Adding node to beginning and end linked list
 Adding node to anywhere in a linked list
 
 ## Day 22
-Deleting nodes in a linked list
+Deleting nodes from beginning and end of  a linked list
+
+## Day 23
+Deleting nodes from anywhere of  a linked list

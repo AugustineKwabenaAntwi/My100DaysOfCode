@@ -61,7 +61,7 @@ class LinkedList:
             self.head = new_node #making new node the head node
             return
         
-        n=self.head # we are essentially looking for the node infront of X_node
+        n=self.head # we are essentially looking for the node in front of X_node
         while n.ref is not None: 
             if n.ref.data == x:# checking if prev_node.ref.data == x
                 break
@@ -80,5 +80,37 @@ class LinkedList:
         else:
             print("There are items in the linked list")    
 
+    def delete_begin(self):
+        if self.head is None:
+            print("Linked List is empty")
+        else:self.head = self.head.ref
+
+    def delete_end(self):
+        if self.head is None:
+            print("Linked list is empty")
+        elif self.head.ref == None:
+            self.head = None
+        else:
+            n = self.head
+            while n.ref.ref is not None:
+                n = n.ref
+            n.ref = None
+
+    def delete_by_value(self,x):
+        if self.head is None:
+            print("LL is empty")
+            return
+        if x==self.head.data:
+            self.head = self.head.ref
+            return
+        n=self.head
+        while n.ref is not None:
+            if n.ref.data ==x:
+                break
+            n = n.ref
+        if n.ref is None:
+            print("Node is not present")
+        else: 
+            n.ref=n.ref.ref #skipping a node to delete      
 
 
