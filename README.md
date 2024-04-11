@@ -99,3 +99,6 @@ Deleting nodes from anywhere of  a linked list
 
 ## Day 24
 Reading on Hashmaps and collision handling. Will do an exercise tomorrow on linked list and hashmaps
+
+## Day 25
+List comprehension
