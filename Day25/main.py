@@ -27,3 +27,9 @@ print(my_list)        '''
 
 my_list = [(letter,num) for letter in 'abcd' for num in range(4) ]
 print(my_list)
+
+names = ['Bruce','Clark','Peter','Logan','Wade']
+heros = ['Batman', 'Superman','Spiderman','Wolverine','Deadpool']
+
+my_dict = {name:hero for (name,hero) in zip(names,heros) if name != 'Peter'}
+print(my_dict)

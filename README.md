@@ -102,3 +102,6 @@ Reading on Hashmaps and collision handling. Will do an exercise tomorrow on link
 
 ## Day 25
 List comprehension
+
+## Day 26
+Hashmap exercise
