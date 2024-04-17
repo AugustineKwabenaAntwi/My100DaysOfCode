@@ -105,3 +105,6 @@ List comprehension
 
 ## Day 26
 Hashmap exercise
+
+## Day 27
+Hashmap exercise ; found difficulty with the exercise. Reviewing a reference code on github
