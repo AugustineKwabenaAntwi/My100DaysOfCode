@@ -14,20 +14,34 @@ class HashTable:
     
     def __setitem__(self,key,val):
         h = self.get_hash(key)
-        self.arr[h] = val
+        found = False
+        for idx, element in enumerate(self.arr[h]): #remember this is a nested array--> (idx,[element0,element1])
+            if len(element) == 2 and element[0]==key:
+                self.arr[h][idx] = (key,val) #2d array
+                found = True
+                break
+        if not found:    
+            self.arr[h].append((key,val)) #if key does not exist update key value pair
 
-    def __getitem__(self,key):
+    def __getitem__(self,key): #list operator
         h=self.get_hash(key)
-        return self.arr[h]  
+        for element in self.arr[h]:
+            if element[0] == key:
+                return element[1]
 
     def __delitem__(self,key):
         h = self.get_hash(key)
-        self.arr[h]=None   
+        for index, element in enumerate(self.arr[h]):
+            if element[0] == key:
+                del self.arr[h][index]
+                break
 
     
 
 
 
 t = HashTable()
-t['march 7']=130  #the getitem and setitem operators allowed to represent in dictionary form
-print(t['march 7'])
+t['march 6'] = 120
+t['march 6'] = 90
+print(t.arr)
+ #the getitem and setitem operators allowed to represent in dictionary form
