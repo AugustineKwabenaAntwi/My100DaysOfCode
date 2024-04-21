@@ -110,6 +110,9 @@ Hashmap exercise
 Hashmap exercise ; found difficulty with the exercise. Reviewing a reference code on github
 
 ## Day 28
+Inheritance
+
+## Day 28
 Finished first Hashmap exercise ; found difficulty chaining in collision handling.
 working on it at the moment 
 Also did quick review in in 2d lists and list operators
