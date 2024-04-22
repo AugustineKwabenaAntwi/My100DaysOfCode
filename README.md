@@ -118,4 +118,5 @@ Also did quick review in in 2d lists and list operators
 Read on Inheritance and creating subclasses
 
 ## Day 30
+Read on decorators
 Practice Inheritance and creating subclasses
