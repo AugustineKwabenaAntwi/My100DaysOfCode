@@ -115,4 +115,7 @@ working on it at the moment
 Also did quick review in in 2d lists and list operators
 
 ## Day 29
-Inheritance
+Read on Inheritance and creating subclasses
+
+## Day 30
+Practice Inheritance and creating subclasses
