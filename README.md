@@ -122,3 +122,8 @@ Practice Inheritance and creating subclasses
 
 ## Day 31
 Practice Inheritance and creating subclasses
+* Multiple Inheritance
+
+## Day 32
+Practice Inheritance and creating subclasses
+* Multiple Inheritance
