@@ -125,5 +125,4 @@ Practice Inheritance and creating subclasses
 * Multiple Inheritance
 
 ## Day 32
-Practice Inheritance and creating subclasses
-* Multiple Inheritance
+Iterators and Generators
