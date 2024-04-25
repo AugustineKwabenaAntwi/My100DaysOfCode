@@ -17,7 +17,7 @@ class Fibonacci:
             self.a = self.b
             self.b = result
             self.n +=1
-            return self.b
+            return self.a
 
 r= Fibonacci(9)
 itr=iter(r)

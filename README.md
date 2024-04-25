@@ -125,4 +125,9 @@ Practice Inheritance and creating subclasses
 * Multiple Inheritance
 
 ## Day 32
-Iterators and Generators
+Iterators 
+*Fibonacci sequence using class
+
+## Day 33
+ Generators
+ *Exercise on squared numbers   
