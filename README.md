@@ -130,4 +130,8 @@ Iterators
 
 ## Day 33
  Generators
- *Exercise on squared numbers   
+ *Exercise on squared numbers
+ 
+## Day 34
+ Sets and Frozen Sets
+ Quick read on argument parsing
