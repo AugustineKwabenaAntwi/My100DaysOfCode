@@ -138,3 +138,6 @@ Iterators
 
 ## Day 35
 Word replacement project
+
+## Day 36
+binary search algorithm
