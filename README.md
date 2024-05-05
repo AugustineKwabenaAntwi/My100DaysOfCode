@@ -144,3 +144,10 @@ binary search algorithm
 
 ## Day 37
 quiz program
+
+## Day 38
+interest payment calculator
+
+## Day 39
+Random Password generator
+
