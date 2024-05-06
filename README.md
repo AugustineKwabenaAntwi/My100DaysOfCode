@@ -150,4 +150,8 @@ interest payment calculator
 
 ## Day 39
 Random Password generator
+qrcode generator
 
+## Day 40
+Random Password generator
+qrcode generator
