@@ -153,5 +153,11 @@ Random Password generator
 qrcode generator
 
 ## Day 40
-Random Password generator
-qrcode generator
+Learning SQL basics
+
+## Day 41
+Learning SQL basics continued
+1.comparisons
+2.wildcards
+3.aggregation
+4.joins
