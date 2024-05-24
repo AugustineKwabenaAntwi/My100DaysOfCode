@@ -161,3 +161,7 @@ Learning SQL basics continued
 2.wildcards
 3.aggregation
 4.joins
+
+## Day 42
+*Took a long brake to sort stuff out
+Setting up Postgresql
