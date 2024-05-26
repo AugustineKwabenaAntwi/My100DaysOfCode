@@ -165,3 +165,7 @@ Learning SQL basics continued
 ## Day 42
 *Took a long brake to sort stuff out
 Setting up Postgresql
+
+## Day 43-44
+*Postgresql in vscode
+creating and manipulating table in postgresql
