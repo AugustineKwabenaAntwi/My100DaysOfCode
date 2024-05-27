@@ -169,3 +169,6 @@ Setting up Postgresql
 ## Day 43-44
 *Postgresql in vscode
 creating and manipulating table in postgresql
+
+## Day 45
+*Lost in queries. Must spend more time tomorrow to sort them out. It looks like i have to learn the order of implementation again.
